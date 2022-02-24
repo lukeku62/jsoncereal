@@ -1,10 +1,10 @@
 # JSON CEREALIZER
-
-### A simple npm package to assign an id to every object of a json array
+A simple npm package to assign an id to every object of a json array
 ***
 ## Installation:
-
-'npm i jsoncereal'
+```bash
+npm i jsoncereal
+```
 ***
 ## Usage example:
 
