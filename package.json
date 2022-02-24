@@ -1,0 +1,37 @@
+{
+    "name": "jsoncereal",
+    "version": "1.0.0",
+    "description": "a simple way to add a uuid to an array of json objects",
+    "keywords": [
+        "npm",
+        "json",
+        "package",
+        "serializer"
+    ],
+    "homepage": "https://github.com/lukeku62/jsoncereal",
+    "bugs": {
+        "url": "https://github.com/lukeku62/jsoncereal/issues",
+        "email": "luca.reverberi62@gmail.com"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lukeku62/jsoncereal"
+    },
+    "author": "lukeku",
+    "license": "MIT",
+    "dependencies": {
+        "uuid": "^8.3.2"
+    },
+    "private": false,
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "engineStrict": true
+}
