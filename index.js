@@ -1,4 +1,4 @@
-export const { v4 } = require("uuid");
+import { v4 } from "uuid";
 
 /**
  * INPUT: a javascript array of objects
