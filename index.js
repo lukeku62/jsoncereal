@@ -1,6 +1,7 @@
 const { v4 } = require("uuid");
-
-modules.exports = makeId = (data) => {
+makeId = (data) => {
     data.map((d) => (d["_id"] = v4()));
     return data;
 };
+
+module.exports = makeId;

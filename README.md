@@ -8,3 +8,6 @@ npm i jsoncereal
 const array = [{'json array'}]
 
 const serializedArray = makeId(array)
+
+### 1.0.1
+fixed module.exports
