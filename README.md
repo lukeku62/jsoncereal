@@ -6,7 +6,7 @@ A simple npm package to assign an id to every object of a json array
 npm i jsoncereal
 ```
 ***
-## Documentatation:
+## Documentation:
 
 ### makeId() 
 #### index.js
@@ -30,7 +30,7 @@ serializedArray = [
 { _id: "550e8400-e29b-41d4-a716-446655440000", name: "Dante", surname: "Alighieri"}
 ]
 ```
-
+---
 ### makeIdCustom() 
 #### index.js
 ```Javascript
