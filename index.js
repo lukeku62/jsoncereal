@@ -20,4 +20,4 @@ const makeIdCustom = (array, key) => {
     return array;
 };
 
-module.exports = { makeId: makeId, makeIdCustom: makeIdCustom };
+export default jcereal = { makeId: makeId, makeIdCustom: makeIdCustom };
