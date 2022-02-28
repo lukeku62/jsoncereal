@@ -1,7 +1,7 @@
 {
     "name": "jsoncereal",
-    "version": "1.1.8",
-    "description": "a simple way to add a uuid to an array of json objects",
+    "version": "1.2.0",
+    "description": "a simple way to add a uuid to an array of json objects and generate mock data",
     "type": "module",
     "keywords": [
         "npm",
@@ -10,7 +10,11 @@
         "serializer",
         "id",
         "array",
-        "uuid"
+        "uuid",
+        "mock",
+        "data",
+        "fake",
+        "utility"
     ],
     "homepage": "https://github.com/lukeku62/jsoncereal",
     "bugs": {
