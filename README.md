@@ -86,7 +86,7 @@ const array = [
 ]
 
 // let's say I want four new objects
-const mockArray = makeMock(array, 4)
+const mockArray = jcereal.makeMock(array, 4)
 ```
 
 #### OUTPUT
@@ -133,6 +133,10 @@ mockArray = [
 ---
 
 ## Updates:
+
+### 1.2.1
+
+-   minor fixes
 
 ### 1.2.0
 
