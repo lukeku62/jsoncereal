@@ -3,7 +3,7 @@ A simple npm package to assign an id to every object of a json array
 ***
 ## Installation:
 ```bash
-npm i jsoncereal
+$ npm i jsoncereal
 ```
 ***
 ## Documentation:
@@ -58,10 +58,10 @@ serializedArray = [
 
 ### 1.1.0
 
---> new function makeIdCustom(), that is equal to makeId() but the id property name is customizable
+* new function makeIdCustom(), that is equal to makeId() but the id property name is customizable
 <br/>
---> updated exports method
+* updated exports method
 
 ### 1.0.1
 
---> fixed module.exports
+* fixed module.exports
