@@ -56,6 +56,9 @@ serializedArray = [
 ***
 ## Updates:
 
+### 1.1.8
+
+* minor fixes
 ### 1.1.0
 
 * new function makeIdCustom(), that is equal to makeId() but the id property name is customizable
